@@ -1,0 +1,18 @@
+.App{
+    height: 100vh;
+    color: black;
+}
+.container{
+    max-width: 1000px;
+    background-color: #fff;
+    padding: 5rem 0; 
+    margin: 0 auto;
+    
+}
+.searchPanel{
+    padding: 1.5rem;
+    border-radius: 4px;
+    background-color: #fcfaf5;
+    box-shadow: 15px 15px 30px rgb(0, 0, 0, 0.15);
+    margin-bottom: 30px;
+}
